@@ -1,6 +1,6 @@
 ![Header](header-img.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=24&pause=1000&color=F7E727&width=435&lines=Hi+there%2C;I'm+Vinod+Madhuranga+!;I'm+a+Programmer.;I'm+a+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=24&pause=1000&color=F7E727&width=435&lines=Hi+there%2C;I'm+Vinod+Madhuranga+!;I'm+a+Programmer;I'm+a+Designer)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Arsenal
 
