@@ -1,6 +1,6 @@
-![Header](header-img.jpg)
+![Header](header-img.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=24&pause=1000&color=F7E727&width=435&lines=Hi+there%2C;I'm+Vinod+Madhuranga+!;I'm+a+Programmer;I'm+a+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=24&pause=1000&color=F7E727&width=435&lines=Hi+there%2C;I'm+Vinod+Rajapaksha+!;I'm+a+Programmer;I'm+a+Designer)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Arsenal
 
@@ -42,8 +42,8 @@
 <div align="center">
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://VinodMadhuranga.com)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-madhuranga/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinod_madhuranga/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-rajapaksha/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinod__rajapaksha/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](madhurangavinod758@gmail.com)
 
 </div>
