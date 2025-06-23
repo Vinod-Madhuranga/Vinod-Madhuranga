@@ -37,6 +37,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinod-Rajapaksha&theme=tokyonight&hide_border=true&mode=weekly" height="200" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vinod-Rajapaksha&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
 ## 🤝 Connect & Collaborate
 
 <div align="center">
